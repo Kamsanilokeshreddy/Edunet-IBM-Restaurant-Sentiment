@@ -5,7 +5,7 @@ This repository contains code and resources for a sentiment analysis project con
 ## Explore the Sentiment Analysis of Restaurant Model!
 Click below to open the project in an interactive Google Colab notebook:
 
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Timmapuram-Karthik/Edunet-IBM-Restaurant-Sentiment/blob/main/Sentimental%20Restaurant%20Review.ipynb)
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kamsanilokeshreddy/Edunet-IBM-Restaurant-Sentiment/blob/main/Sentimental%20Restaurant%20Review.ipynb)
 
 
 ## Table of Contents
@@ -68,7 +68,7 @@ The results of the sentiment analysis, including evaluation metrics and insights
 
 ## Author
 
-- T.Karthik
+- Kamasani Lokesh Reddy
 - [LinkedIn Profile](https://www.linkedin.com/in/kamsani-lokesh-reddy/)
 - [GitHub Profile](https://github.com/Kamsanilokeshreddy)
 
