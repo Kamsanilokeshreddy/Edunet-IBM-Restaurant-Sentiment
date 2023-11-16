@@ -52,7 +52,7 @@ The code within this repository encompasses the complete sentiment analysis pipe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Timmapuram-Karthik/Edunet-IBM-Restaurant-Sentiment
+   git clone https://github.com/Kamsanilokeshreddy/Edunet-IBM-Restaurant-Sentiment
    cd Edunet-IBM-Restaurant-Sentiment
    ```
 2. Run the Jupyter notebook to perform sentiment analysis on the restaurant reviews dataset.
@@ -69,7 +69,7 @@ The results of the sentiment analysis, including evaluation metrics and insights
 ## Author
 
 - T.Karthik
-- [LinkedIn Profile](https://www.linkedin.com/in/timmapuram-karthik/)
-- [GitHub Profile](https://github.com/Timmapuram-Karthik)
+- [LinkedIn Profile](https://www.linkedin.com/in/kamsani-lokesh-reddy/)
+- [GitHub Profile](https://github.com/Kamsanilokeshreddy)
 
 Feel free to contribute, provide feedback, or use this project for learning and experimentation.
